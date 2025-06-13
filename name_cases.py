@@ -10,9 +10,4 @@ famous_person = "Elon Musk"
 quote = famous_person + " once said, " + quote
 print(quote)
 
-name = " Alex "
-print(name.strip())
-print(name.rstrip())
-print(name.lstrip())
-
 
